@@ -1,5 +1,5 @@
 #  About Me:
-FULL STACK DEVELOPER|MERN|Python|PostgreSQL|Deep Learning|AI/ML Enthusiast 
+FULL STACK DEVELOPER|MERN|Python|PostgreSQL|Deep Learning|ML Engineer
 
 
 ##  Socials:
