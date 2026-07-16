@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Syed Muhammad Rafay Ali</h1>
+<h1 align="center">Hi, I'm Syed Muhammad Rafay Ali</h1>
 <h3 align="center">Full Stack AI Engineer | MERN | Python | PostgreSQL | Deep Learning | Computer Vision</h3>
 
 <p align="center">
-  I build end-to-end products, from React/Next.js frontends to FastAPI/Node backends, and ship AI features powered by PyTorch, OpenCV, and YOLO.
+  Full-stack AI engineer and Computer Science graduate from FAST-NUCES with hands-on experience building full-stack web applications and AI-powered systems using React, Next.js, TypeScript, Node.js, and Python. I design and deploy RESTful APIs, train and serve computer vision models with YOLO, PyTorch, and OpenCV, and build CI/CD pipelines with GitHub Actions and Docker.
+</p>
+
+<p align="center">
+  Lahore, Pakistan
 </p>
 
 <p align="center">
@@ -12,7 +16,17 @@
   <a href="https://medium.com/@RafayBlogs" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="mailto:rafayalishah74@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### Education
+
+**National University of Computer and Emerging Sciences (FAST-NUCES)**, 2022 to 2026
+Bachelor of Science in Computer Science
 
 ---
 
@@ -38,13 +52,20 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 
-**DevOps & Tools**
+**Databases & DevOps**
 
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 
 **Design & Productivity**
 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+
+---
+
+### Certifications
+
+Meta Full Stack Developer: Front-End & Back-End from Scratch, Meta / Coursera
+Prompt Engineering, Coursera
 
 ---
 
